@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kuhmonaali</string>
+    <string name="camera">Kamera</string>
+    <string name="capture">Kuvaa</string>
+    <string name="result">lopputulos</string>
+    <string name="share">Jaa kuva</string>
+    <string name="infoTitle">Tervetuloa käyttämään Kuhmonaalia!</string>
+    <string name="infoBody">Tällä sovelluksella voit ottaa vain vinoja kuvia, koska ne ovat tyylikkäimpiä ja dynaamisempia, kuten mestari itse niitä luonnehtii.\n\nToimi näin:\n1. Valitse kuvattava kohde\n2.Käännä kameraa ja löydä Kuhmonaali! Huom. Ruutu on punainen, kunnes löydät oikean kulman puhelinta kääntämällä.\n3. Ota kuva!\n4. Jaa se somessa - #kuhmonaali\n\nNauti uusista kulmista!</string>
+    <string name="dont_show_again">Älä näytä uudestaan</string>
+    <string name="infoOkBtn">OK! Kuvaamaan! ></string>
+    <string name="not_enough_0">Ihan liian suorassa.</string>
+    <string name="not_enough_1">Käännä, käännä!</string>
+    <string name="not_enough_2">Lisää kulmaa!</string>
+    <string name="not_enough_3">Melkein Kuhmonaalissa.</string>
+    <string name="not_enough_4">Eikö meinaa oikea kulma löytyä?</string>
+    <string name="not_enough_5">No mikä tämä kulma nyt on?</string>
+    <string name="not_enough_6">Käännä vinompaan! Vinompaan!</string>
+    <string name="enough_0">Siinä se on! Kuhmonaali, mestarin kulma!</string>
+    <string name="enough_1">Älä käännä Kuhmonaalin ohi.</string>
+    <string name="enough_2">Ihanaa! Tästä Pasi tykkää.</string>
+    <string name="enough_3">Stop! Siinä. Täydellinen Kuhmonaali.</string>
+    <string name="enough_4">Elämässä täytyy olla pikkasen Kuhmonaalia.</string>
+</resources>
